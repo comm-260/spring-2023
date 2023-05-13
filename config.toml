@@ -1,4 +1,4 @@
-baseurl = "https://comm-260.github.io"
+baseurl = "https://comm-260.github.io/spring-2023/"
 metaDataFormat = "yaml"
 title = "Comm-260 Spring 2023"
 theme = "blist"
