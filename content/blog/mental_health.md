@@ -5,7 +5,7 @@ title: "These kids have not been alright"
 description: "The troublesome trend continues"
 tags: ["charts"]
 date: 2023-05-10 11:50:00
-thumbnail: /spring-2023/mental.png
+thumbnail: /mental.png
 ---
 
 

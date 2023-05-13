@@ -4,7 +4,7 @@ title: "Share bikes in DC"
 description: "Post pandemic, Capital Bikeshare is experiencing a swift rise in usage"
 tags: ["map"]
 date: 2023-05-10 12:01:00
-thumbnail: /spring-2023/bikes.png
+thumbnail: /bikes.png
 ---
 
 The Covid-19 outbreak in 2020 led to business shutting down, and people being socially isolated in their homes. This affected Bike Sharing services, as people were not leaving their homes as often. Capital Bikeshare, the official bikeshare programs for D.C.,  is steadily recovering from the fall in usage in 2020, following the Covid-19 outbreak. 

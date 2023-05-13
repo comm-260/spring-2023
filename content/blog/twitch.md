@@ -4,7 +4,7 @@ title: "The Blurred Lines of Twitch Streams"
 description: "Money, Influence, and Gaming"
 tags: ["charts"]
 date: 2023-05-10 09:01:00
-thumbnail: /spring-2023/twitch.jpg
+thumbnail: /twitch.jpg
 ---
 
 
