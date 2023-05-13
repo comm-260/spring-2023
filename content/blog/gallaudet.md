@@ -3,7 +3,7 @@ author: "Natalie Monga"
 title: "Deaf Students Disproportionately More Likely to Experience Sexual Assault"
 tags: ["charts"]
 date: 2023-05-10 12:00:00
-thumbnail: /gallaudet.png
+thumbnail: /spring-2023/gallaudet.png
 ---
 
 A school for the deaf and hard of hearing, Gallaudet University’s average sexual assault rate was 12.6 cases per 1,000 students between 2014 and 2021. 

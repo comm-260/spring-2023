@@ -5,7 +5,7 @@ title: "Fast Food and Obesity"
 description: "A growing concern"
 tags: ["charts"]
 date: 2023-05-10 08:30:00
-thumbnail: /map.png
+thumbnail: /spring-2023/map.png
 ---
 
 

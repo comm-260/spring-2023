@@ -4,7 +4,7 @@ title: "Verschwindende Deutsche"
 description: "Why is the German Population of Cleveland Dwindling?"
 tags: ["charts"]
 date: 2023-05-10 08:01:00
-thumbnail: /zanes.jpeg
+thumbnail: /spring-2023/zanes.jpeg
 ---
 
 

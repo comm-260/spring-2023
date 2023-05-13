@@ -5,7 +5,7 @@ title: "The AU Women's Basketball Season"
 description: "A fight with the school or social media?"
 tags: ["charts"]
 date: 2023-05-10 11:20:00
-thumbnail: /au_basketball.jpg
+thumbnail: /spring-2023/au_basketball.jpg
 ---
 
 

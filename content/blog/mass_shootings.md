@@ -4,7 +4,7 @@ title: "Mass shootings in the U.S. are at a record high"
 description: "But there are still those advocating for gun rights"
 tags: ["charts"]
 date: 2023-05-10 11:45:00
-thumbnail: /spending.png
+thumbnail: /spring-2023/spending.png
 ---
 
 Mass shootings are an American phenomenon. In 2023, the United States is setting a record pace for mass killings, with these horrific incidents happening roughly once a week. 

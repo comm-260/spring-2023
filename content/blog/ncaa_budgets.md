@@ -5,7 +5,7 @@ title: "Balling on a budget"
 description: "The Financial Side of the NCAA March Madness Tournament"
 tags: ["charts"]
 date: 2023-05-10 11:55:00
-thumbnail: /scatter.png
+thumbnail: /spring-2023/scatter.png
 ---
 
 The NCAA March Madness basketball tournament is a place where anything can and will happen. What draws people in every year, however, are the underdogs, the Cinderella stories and the upsets. 
