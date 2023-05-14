@@ -3,7 +3,7 @@ author: "Genesis Magpayo "
 title: "Fast Food Chains Expand but at What Cost? "
 tags: ["charts"]
 date: 2023-05-10 11:01:00
-thumbnail: /bean.JPG
+thumbnail: https://comm-260.github.io/spring-2023/bean.JPG
 ---
 
 For Nairobi Toombs, a sophomore at Howard University, growing up in Chicago was a pivotal part of her upbringing. From bike rides with her father on the lakeshore to having attended the Whitney Young Magnet High School––the high school that Michelle Obama attended––Toombs said that she had more opportunities than her neighbors. 

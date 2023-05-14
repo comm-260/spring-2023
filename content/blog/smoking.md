@@ -4,7 +4,7 @@ author: "Hannah Newlon-Trujillo"
 title: "Lung Cancer Rates Decline Rapidly As Americans Find Ways To Quit Smoking"
 tags: ["charts"]
 date: 2023-05-10 10:00:00
-thumbnail: /smoking.png
+thumbnail: https://comm-260.github.io/spring-2023/smoking.png
 ---
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/13531284"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

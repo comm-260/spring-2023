@@ -4,7 +4,7 @@ title: "Contaminated drinking water "
 description: "Not a thing of the past for many Americans"
 tags: ["map"]
 date: 2023-05-10 11:30:00
-thumbnail: /watermap.png
+thumbnail: https://comm-260.github.io/spring-2023/watermap.png
 ---
 
 

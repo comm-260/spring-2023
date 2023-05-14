@@ -4,7 +4,7 @@ author: "Liv Wood"
 title: "Should Colleges Continue to Require SAT Scores?"
 tags: ["charts"]
 date: 2023-05-10 11:46:00
-thumbnail: /scores.png
+thumbnail: https://comm-260.github.io/spring-2023/scores.png
 ---
 
 
